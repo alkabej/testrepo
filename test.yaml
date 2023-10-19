@@ -18,6 +18,3 @@
      location: "a pear tree"
    turtle-doves: two
 
-foo : bar
-pleh : help
-stuff : {'foo': 'bar', 'bar': 'foo'}
